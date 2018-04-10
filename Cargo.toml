@@ -1,0 +1,8 @@
+[package]
+name = "tokio-byteorder"
+version = "0.1.0"
+authors = ["panicbit <panicbit.dev@gmail.com>"]
+
+[dependencies]
+tokio = "0.1.5"
+byteorder = "1.2.2"
